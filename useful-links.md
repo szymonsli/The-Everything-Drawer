@@ -27,4 +27,5 @@
 - [...all OWASP projects](https://owasp.org/projects/)
 
 ## Other
-- [Guidelines for Evidence Collection and Archiving](https://datatracker.ietf.org/doc/html/rfc3227)
+- [RFC 3227 Guidelines for Evidence Collection and Archiving](https://datatracker.ietf.org/doc/html/rfc3227)
+- [RFC 4949 Internet Security Glossary, Version 2](https://datatracker.ietf.org/doc/html/rfc4949)
