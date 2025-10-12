@@ -12,12 +12,11 @@
 - [NIS 1](https://eur-lex.europa.eu/eli/dir/2016/1148/oj)
 - [NIS 2](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022L2555)
 
-## OSINT
-- [Bellingcat OSM Search](https://osm-search.bellingcat.com/)
-
 ## NIST
 - [NIST 800-53](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final)
 - [Implementation of DevSecOps](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-204C.pdf)
+- [NIST Cybersecurity Framework 1.1 (Framework for Improving Critical Infrastructure Cybersecurity)](https://nvlpubs.nist.gov/nistpubs/cswp/nist.cswp.04162018.pdf)
+- [NIST Cybersecurity Framework 2.0](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf)
 
 ## OWASP
 - [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/index.html)
