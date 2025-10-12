@@ -1,4 +1,9 @@
-# E-mail analysis
+# Browser-based tools
+## OSINT
+- [Bellingcat OSM Search](https://osm-search.bellingcat.com/)
+
+
+## E-mail analysis
 - [google - analyze message header](https://toolbox.googleapps.com/apps/messageheader/analyzeheader)
 - [Message header analyzer](https://mha.azurewebsites.net/)
 - [Mail header](mailheader.org)
@@ -9,5 +14,5 @@
 - [Spamhaus](https://www.spamhaus.org/)
 - [Phishtank](https://phishtank.com/)
 
-# Malware analysis
+## Malware analysis
 - [AnyRun malware analysis app](https://app.any.run/)
