@@ -6,12 +6,6 @@
 - [Mitre CWE](https://cwe.mitre.org/)
 - [CVE](https://www.cve.org/)
 
-## Law
-- [DORA](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2554) (EN)
-- [DORA](https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:32022R2554) (PL)
-- [NIS 1](https://eur-lex.europa.eu/eli/dir/2016/1148/oj)
-- [NIS 2](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022L2555)
-
 ## NIST
 - [NIST 800-53](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final)
 - [Implementation of DevSecOps](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-204C.pdf)
