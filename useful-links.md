@@ -22,3 +22,4 @@
 ## Other
 - [RFC 3227 Guidelines for Evidence Collection and Archiving](https://datatracker.ietf.org/doc/html/rfc3227)
 - [RFC 4949 Internet Security Glossary, Version 2](https://datatracker.ietf.org/doc/html/rfc4949)
+- [ETSI - European Telecommunications Standards Institute](https://www.etsi.org/)
