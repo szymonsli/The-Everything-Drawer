@@ -7,8 +7,9 @@
 - [CVE](https://www.cve.org/)
 
 ## NIST
-- [NIST 800-53](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final)
-- [Implementation of DevSecOps](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-204C.pdf)
+- [NIST SP 800-53](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final)
+- [NIST SP 800-160 Systems Security Engineering](https://csrc.nist.gov/pubs/sp/800/160/v1/upd2/final)
+- [NIST SP 800-204C Implementation of DevSecOps](https://csrc.nist.gov/pubs/sp/800/204/c/final))
 - [NIST Cybersecurity Framework 1.1 (Framework for Improving Critical Infrastructure Cybersecurity)](https://nvlpubs.nist.gov/nistpubs/cswp/nist.cswp.04162018.pdf)
 - [NIST Cybersecurity Framework 2.0](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf)
 
@@ -23,3 +24,4 @@
 - [RFC 3227 Guidelines for Evidence Collection and Archiving](https://datatracker.ietf.org/doc/html/rfc3227)
 - [RFC 4949 Internet Security Glossary, Version 2](https://datatracker.ietf.org/doc/html/rfc4949)
 - [ETSI - European Telecommunications Standards Institute](https://www.etsi.org/)
+- [ENISA Cybersecurity Skills Framework](https://enisaeu.github.io/ECSF)
