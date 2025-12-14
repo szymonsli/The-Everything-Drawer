@@ -15,4 +15,7 @@
 - [Phishtank](https://phishtank.com/)
 
 ## Malware analysis
+- [Hybrid Analysis](https://hybrid-analysis.com/)
 - [AnyRun malware analysis app](https://app.any.run/)
+- [LOLBAS - Living Off the Land binaries - Windows](https://lolbas-project.github.io)
+- [GTFOBins - Living Off the Land binaries - Linux](https://gtfobins.github.io/)
