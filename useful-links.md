@@ -9,7 +9,8 @@
 - [Mitre Fight Fraud Framework](https://ctid.mitre.org/fraud)
 
 ## NIST
-- [NIST SP 800-53](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final)
+- [NIST SP 800-30 Guide for Conducting Risk Assessments](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf)
+- [NIST SP 800-53 Security and Privacy Controls for Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final)
 - [NIST SP 800-160 Systems Security Engineering](https://csrc.nist.gov/pubs/sp/800/160/v1/upd2/final)
 - [NIST SP 800-204C Implementation of DevSecOps](https://csrc.nist.gov/pubs/sp/800/204/c/final)
 - [NIST SP 800-218 Secure Software Development Framework (SSDF) Version 1.1](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-218.pdf)
