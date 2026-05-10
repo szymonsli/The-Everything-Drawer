@@ -6,6 +6,7 @@
 - [Mitre CWE](https://cwe.mitre.org/)
 - [CVE](https://www.cve.org/)
 - [Mitre Attack Flow](https://center-for-threat-informed-defense.github.io/attack-flow/)
+- [Mitre Fight Fraud Framework](https://ctid.mitre.org/fraud)
 
 ## NIST
 - [NIST SP 800-53](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final)
